@@ -10,7 +10,7 @@ This simulation, as noted in the blog post, runs for one billion sample tests
 ( or test takers ), and uses a 100 question test. It runs 4 times: 2 answer (
 True/False ), 3 answer, 4 answer and 5 answer multiple choice questions.  
 
-**WARNING** Running this simulation as is, requires a LOT of memory and CPU time!  _16 Gigs_ is is highly recommended. 
+**WARNING:** Running this simulation as is, requires a LOT of memory and CPU time!  _16 Gigs_ is is highly recommended. 
 
 ## Files 
 
