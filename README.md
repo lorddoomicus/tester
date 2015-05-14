@@ -4,6 +4,9 @@ This is the program, support scripts used, and output files for the blog post:
  
 http://www.doomd.net/2013/08/can-someon-pass-sat-or-anyother-filling.html
 
+Which asks, "Can Someone Pass the SAT, or Anyother Filling the Bubble Type 
+Test, by Randomly Answering Each Question?"
+
 ## Notes
 
 This simulation, as noted in the blog post, runs for one billion sample tests 
