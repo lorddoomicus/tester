@@ -1,0 +1,20 @@
+#!/bin/bash
+#/*****************************************************************************
+# * graphit                                                                   *
+# * (c) 2012 Derrik Walker v2.0                                               *
+# *                                                                           *
+# * This will use plotutils graph the dat files from testem.sh                *
+# * But it doesn't make a jpeg, just brings them up in x-window               *
+# *                                                                           *
+# * This is licensed for use under the GNU General Pulbic License v2          *
+# *                                                                           *
+# * 2012-11-12	DW2	Initial version                                       *
+# * 2015-05-13	DW2	Initial release                                       *
+# *                                                                           *
+# *****************************************************************************/
+
+graph -T X -x 0 100 -y 0 1e+8 -C --bitmap-size 1280x1024 \
+	--reposition  0 .5 .5 -L "2 Answer Questions" test2.dat \
+	--reposition .5 .5 .5 -L "3 Answer Questions" test3.dat \
+	--reposition  0  0 .5 -L "4 Answer Questions" test4.dat \
+	--reposition .5  0 .5 -L "5 Answer Questions" test5.dat 
