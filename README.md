@@ -2,7 +2,7 @@
 
 This is the program, support scripts used, and output files for the blog post:
 
-https://www.doomd.net/2012/12/can-someone-pass-the-sat-or-anyother-filling-the-bubble-type-test-by-randomly-answering-each-question.html 
+https://www.doomd.net/can-someone-pass-the-sat-or-anyother-filling-the-bubble-type-test-by-randomly-answering-each-question.html
 
 Which asks, "Can Someone Pass the SAT, or Anyother Filling the Bubble Type 
 Test, by Randomly Answering Each Question?"
